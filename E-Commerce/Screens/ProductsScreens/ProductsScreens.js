@@ -58,8 +58,8 @@ const data = [
 
   {
     id: 5,
-    images: require("../../images/6.jpg"),
-    name: "Brown Jacket",
+    images: require("../../images/shirt.jpg"),
+    name: "Brown T-Shirt",
     size: "size: XL| Qty: 10pcs",
     price: "$350",
     category: "T-Shirt",
@@ -67,8 +67,8 @@ const data = [
   },
   {
     id: 6,
-    images: require("../../images/7.jpg"),
-    name: "White Jacket",
+    images: require("../../images/t-shrit1.jpg"),
+    name: "Brown Shirt",
     size: "size: XL| Qty: 10pcs",
     price: "$250",
     category: "Shirt",
