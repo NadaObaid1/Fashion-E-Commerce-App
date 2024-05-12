@@ -1,3 +1,4 @@
+  //Slider page
   import React, { useState } from "react";
   import Carousel from "react-native-snap-carousel";
   import { View, Text, Image, StyleSheet, Dimensions, TouchableOpacity } from "react-native";
